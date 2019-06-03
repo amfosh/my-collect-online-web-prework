@@ -3,6 +3,6 @@ def my_collect(collection)
   new_collection = []
   while i < collection.size do
     collection2 << yielf(collection[i])
-    i+=
+    i+=1
   
 
